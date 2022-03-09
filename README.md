@@ -1,10 +1,8 @@
-# monumento
+# Monumento
 Simple AR app that brings life into some famous landmarks across the world through your phone :)
 
-📱Download the apk file from the drive link given below.
+For the initial version of this project, the app recognizes upto 5 different pictures of each landmark.
 
-😅For the initial version of this project, the app recognizes upto 3 different pictures of each landmark. The images of the targets are enclosed in the below link under the name "image_targets". 
+Made in collaboration with <a href="https://github.com/kruthi3012">Kruthi</a>
 
-✨The below link contains other resources used in this project.
-
-https://drive.google.com/drive/folders/1qygoTbyJXzd0EIE_xyQcJeJkE8gP_uWW?usp=sharing
+Original project link : https://github.com/kruthi3012/monumento
